@@ -10,7 +10,7 @@ export const App = () => {
   
   return (
 
-    //  Configuración para usar la liberóa de react-native-paper y los iconos de Ionic 
+    //  Configuración para usar la librería de react-native-paper y los iconos de Ionic 
 
     <PaperProvider
       settings={{
